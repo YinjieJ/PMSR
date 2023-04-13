@@ -1,4 +1,4 @@
-Run PMSR using these command:
+Run PMSR using these commands:
 
 
 ```
